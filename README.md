@@ -9,3 +9,4 @@ Candidates are expected to:
 3. Lawan Bot
 4. Akumulasi Poin
 5. Share to Social Media
+6. Tambah Animasi
